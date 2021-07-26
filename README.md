@@ -1,7 +1,5 @@
-# How to Create an Ecommerce Site with React
-
-
-passsword is passsword
+# EMerce
+An online store for your products.
 
 
 ## Requirements
